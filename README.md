@@ -22,6 +22,7 @@ Clone this repository to your local machine:
 
 --> git clone https://github.com/Sathvik-Tumati/Text-Generator.git
 --> cd Text-Generator
+
 2. Set Up a Virtual Environment
 
 It is recommended to create a virtual environment:
