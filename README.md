@@ -5,15 +5,15 @@ This project demonstrates how to generate text using the GPT-2 model from Huggin
 Table of Contents
 Description
 
-Installation
+1. Installation
 
-Usage
+2. Usage
 
-Requirements
+3. Requirements
 
-Contributing
+4. Contributing
 
-Description
+Description:-
 This Python script uses the transformers library by Hugging Face to load the pre-trained GPT-2 model and generate text. It prompts the user for an input, feeds it to the model, and outputs the generated text.
 
 Installation
